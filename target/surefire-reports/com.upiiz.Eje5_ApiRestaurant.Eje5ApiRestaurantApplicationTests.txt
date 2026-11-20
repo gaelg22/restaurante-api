@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.upiiz.Eje5_ApiRestaurant.Eje5ApiRestaurantApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.421 s -- in com.upiiz.Eje5_ApiRestaurant.Eje5ApiRestaurantApplicationTests
